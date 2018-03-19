@@ -1,0 +1,3 @@
+[submodule "BattleSharp"]
+	path = BattleSharp
+	url = https://github.com/LeifT/BattleSharp.git
